@@ -1,22 +1,36 @@
-+++
-widget = "slider"
-weight = 20
+---
+widget: slider
+headless: true  # This file represents a page section.
+weight: 10
+# ... Put Your Section Options Here (section position etc.) ...
 
-interval = 2000
-height = "40vh"
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval: 4000
 
-[design.background]
-  gradient_start = "black"
-  gradient_end = "purple"
-  text_color_light = true
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height: 300px
 
-[[item]]
-  title = "Human Centred Computing"
-  content = "Text"
-[[item]]
-  title = "Text"
-  content = "other text"
-[[item]]
-  title = "Text"
-  content = "Other Text"
-+++
+
+item:
+  - title: Human Centred Computing Group
+    content: King's College London
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    overlay_color: black  # An HTML color value.
+    overlay_img: slider-background.jpg  # Image path relative to your `static/media/` folder
+    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+  - title: bbbb
+    content: 'yello'
+    align: center
+    overlay_color: '#555'
+    overlay_img: slider-background.jpg 
+    overlay_filter: 0.4
+  - title: ccc
+    content: 'hello again'
+    align: center
+    overlay_color: '#ffffff'
+    overlay_img: slider-background.jpg 
+    overlay_filter: 0.9
+---
