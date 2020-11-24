@@ -14,7 +14,7 @@ tags: [award]
 categories: [hci, accessibility]
 date: '2019-01-01'
 lastmod: 2020-11-24T12:10:44Z
-featured: false
+featured: true
 draft: false
 
 # Featured image
