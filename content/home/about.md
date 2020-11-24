@@ -17,4 +17,5 @@ title: About us
 ---
 
 
-We are a research group based in the Informatics Department, King's College London.
+We are a research group based in the Informatics Department, King's College London. We are a research group based in the Informatics Department, King's College London. We are a research group based in the Informatics Department, King's College London.
+We are a research group based in the Informatics Department, King's College London. We are a research group based in the Informatics Department, King's College London. We are a research group based in the Informatics Department, King's College London.
