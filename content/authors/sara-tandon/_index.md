@@ -1,33 +1,28 @@
 ---
 # Display name
-title: Rita Borgo
+title: Sara Tandon
 authors:
-- rita-borgo
+- sara-tandon
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Senior Lecturer
+role:  PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: King's College London
-  url: https://www.stanford.edu/
+  url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sara Tandon is a PhD student in the Department of Informatics. Her research focuses on spatial ability and its effect on perception of data visualization. 
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Data Visualisation
-- Visual Analytics
-- Human Factors in Visualisation
-
-
-
-# Education to show in About widget
-
+- Information Visualization
+- Data Storytelling
+- Individual Differences and Visual Perception
+- Artistic & Journalistic Data Visualization
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,9 +32,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=OtAll0cAAAAJ&hl=en
+
 
 
 # Link to a PDF of your resume/CV.
@@ -57,8 +50,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["academics"]
+user_groups: ["phd-students"]
 ---
 
-Rita Borgo is a...
+Sara Tandon is a PhD student in the Department of Informatics. Her research focuses on spatial ability and its effect on perception of data visualization. She holds an MSc in Data Science from King's College London. Her dissertation focused on creating visual databases and storytelling for US demographic and political opinion time series data. Sara also holds a BSc in Mathematics from Pepperdine University (USA).
 

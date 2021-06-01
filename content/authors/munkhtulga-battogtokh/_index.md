@@ -1,33 +1,29 @@
 ---
 # Display name
-title: Rita Borgo
+title: Munkhtulga Battogtokh
 authors:
-- rita-borgo
+- munkhtulga-battogtokh
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Senior Lecturer
+role:  PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: King's College London
-  url: https://www.stanford.edu/
+  url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Munkhtulga Battogtokh is a PhD student in the Department of Informatics. His research focuses on Safe and Trusted AI, with a specific focus on AI-driven dialogue systems and visualisation. 
+
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Data Visualisation
-- Visual Analytics
-- Human Factors in Visualisation
-
-
-
-# Education to show in About widget
-
+- Natural Language Processing
+- Information visualisation
+- Safe and Trusted AI
+- Image processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,10 +33,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=OtAll0cAAAAJ&hl=en
-
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -57,8 +49,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["academics"]
+user_groups: ["phd-students"]
 ---
 
-Rita Borgo is a...
-
+Munkhtulga Battogtokh is a PhD student in the Department of Informatics. His research focuses on Safe and Trusted AI, with a specific focus on AI-driven dialogue systems and visualisation. Munkhtulga obtained his BSc from King's College London with first class honours, the Alan Fairbourn Memorial Prize for the Most Meritorious Final Year Project and the Sambrooke Exhibition Prize for being the highest-scoring student in Informatics 2016/2017.

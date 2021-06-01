@@ -15,12 +15,16 @@ organizations:
   url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: Dr Alfie Abdul-Rahman is a Lecturer in Computer Science at King’s College London. She received her PhD from Swansea University in Computer Science. Before joining King’s, she was a Research Associate at the University of Oxford e-Research Centre. 
+
 
 # Interests to show in About widget
 interests:
-- Interest 1
-- Interest 2
+- Information Visualisation
+- Human-Computer Interaction
+- User-centered Design of Visualisation Applications
+- Visualisation in Digital Humanities
+- User Studies and Evaluation
 
 
 # Education to show in About widget
@@ -36,10 +40,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/thisisalfie
 - icon: graduation-cap  # OR `google-scholar`
   icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/
+  link: https://scholar.google.co.uk/citations?user=odURYTkAAAAJ&hl=en
 
 
 # Link to a PDF of your resume/CV.
@@ -60,5 +64,4 @@ highlight_name: false
 user_groups: ["academics"]
 ---
 
-Alfie Abdul-Rahman
-
+Dr Alfie Abdul-Rahman is a Lecturer in Computer Science at King’s College London. She received her PhD from Swansea University in Computer Science. Before joining King’s, she was a Research Associate at the University of Oxford e-Research Centre. She worked as a Research Engineer in HP Labs Bristol on document engineering, and then as a Software Developer in London, working on multi-format publishing. Her research interests include information visualisation, computer graphics, human-computer interaction, and digital humanities. Alfie has worked on several projects including Poem Viewer and ViTA: Visualization for Text Alignment. She is actively involved with the Quill Project at the University of Oxford, a platform for the study of negotiated texts.

@@ -15,12 +15,17 @@ organizations:
   url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: Helen Yannakoudakis is working on machine learning for natural language processing, with emphasis on real-world applications and non-canonical language, such as automated writing/speech assessment and abusive language detection in social media. 
+
 
 # Interests to show in About widget
 interests:
-- Interest 1
-- Interest 2
+- Development of open-domain models of language
+- Learning with limited data
+- Transfer and multi-task learning
+- Long-form generation models
+- Dialogue systems
+- Explainable machine learning 
 
 
 # Education to show in About widget
@@ -36,10 +41,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/HYannakoudakis
 - icon: graduation-cap  # OR `google-scholar`
   icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/
+  link: https://scholar.google.gr/citations?user=B3WGvRsAAAAJ&hl=en
 
 
 # Link to a PDF of your resume/CV.
@@ -59,6 +64,5 @@ highlight_name: false
 #   Remove this if you are not using the People widget.
 user_groups: ["academics"]
 ---
-
-Helen Yannakoudakis is...
+Helen Yannakoudakis is working on machine learning for natural language processing, with emphasis on real-world applications and non-canonical language, such as automated writing/speech assessment and abusive language detection in social media. Her research interests include the development of open-domain models of language, learning with limited data, transfer and multi-task learning, long-form generation models, dialogue systems, and explainable machine learning. Helen holds a PhD in Natural Language and Information Processing from the University of Cambridge. 
 

@@ -1,33 +1,28 @@
 ---
 # Display name
-title: Rita Borgo
+title: Yiwen Xing
 authors:
-- rita-borgo
+- yiwen-xing
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Senior Lecturer
+role:  PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: King's College London
-  url: https://www.stanford.edu/
+  url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yiwen Xing is a PhD student in the Department of Informatics. Her research project is titled 'Understanding Social and Infrastructure Changes through the Lenses of Liberal Arts', which is aligned with the Human Centred Computing (HCC) Group.
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Data Visualisation
-- Visual Analytics
-- Human Factors in Visualisation
-
-
-
-# Education to show in About widget
-
+- Information Visualization
+- Data Storytelling
+- Individual Differences and Visual Perception
+- Artistic & Journalistic Data Visualization
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,9 +32,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=OtAll0cAAAAJ&hl=en
+
 
 
 # Link to a PDF of your resume/CV.
@@ -57,8 +50,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["academics"]
+user_groups: ["phd-students"]
 ---
 
-Rita Borgo is a...
+Yiwen Xing is a PhD student in the Department of Informatics. Her research project is titled 'Understanding Social and Infrastructure Changes through the Lenses of Liberal Arts', which is aligned with the Human Centred Computing (HCC) Group.
+
 

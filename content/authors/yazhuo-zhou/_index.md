@@ -1,8 +1,8 @@
 ---
 # Display name
-title: PhD Student
+title: Yazhuo Zhou
 authors:
-- phd-student-1
+- yazhuo-zhou
 # Is this the primary user of the site?
 superuser: false
 
@@ -15,16 +15,14 @@ organizations:
   url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: Yazhuo Zhou is a PhD student in the Department of Informatics. Her research focuses on visualization for AI-driven dialogue systems. She holds an MSc in Data Science from King's College London, where her dissertation focused on a logo detector for detecting product placement in social media image posts. 
+
 
 # Interests to show in About widget
 interests:
-- Interest 1
-- Interest 2
-
-
-# Education to show in About widget
-
+- Visualization for dialogue systems
+- Explainable AI
+- Natural Language Processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,12 +32,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/
+
 
 
 # Link to a PDF of your resume/CV.
@@ -60,5 +53,5 @@ highlight_name: false
 user_groups: ["phd-students"]
 ---
 
-PhD student is...
+Yazhuo Zhou is a PhD student in the Department of Informatics. Her research focuses on visualization for AI-driven dialogue systems. She holds an MSc in Data Science from King's College London, where her dissertation focused on a logo detector for detecting product placement in social media image posts. She holds a BSc in Bioinformatics from Central South University (China).
 

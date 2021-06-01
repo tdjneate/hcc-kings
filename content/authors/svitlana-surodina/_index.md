@@ -1,33 +1,26 @@
 ---
 # Display name
-title: Rita Borgo
+title: Svitlana Surodina
 authors:
-- rita-borgo
+- svitlana-surodina
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Senior Lecturer
+role:  PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: King's College London
-  url: https://www.stanford.edu/
+  url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Svitlana Surodina is the Entrepreneur in Residence with Ageing Research at King's (ARK) where she supports commercialisation programmes and conducts research on technological ecosystems for investments in longevity innovation.
+
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Data Visualisation
-- Visual Analytics
-- Human Factors in Visualisation
-
-
-
-# Education to show in About widget
-
+- Longevity Investment Infrastructure
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +32,7 @@ social:
   link: '/#contact'
 - icon: graduation-cap  # OR `google-scholar`
   icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=OtAll0cAAAAJ&hl=en
+  link: https://scholar.google.com.ua/citations?user=xptLe0sAAAAJ&hl=en&oi=ao
 
 
 # Link to a PDF of your resume/CV.
@@ -57,8 +50,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["academics"]
+user_groups: ["phd-students"]
 ---
 
-Rita Borgo is a...
-
+Svitlana Surodina is the Entrepreneur in Residence with Ageing Research at King's (ARK) where she supports commercialisation programmes and conducts research on technological ecosystems for investments in longevity innovation. Svitlana is also the CEO of Skein Group which includes the AI technology innovation and business acceleration of Health-Tech. She holds an MBA from the University of Oxford and is currently a PhD student in the Department of Informatics.
