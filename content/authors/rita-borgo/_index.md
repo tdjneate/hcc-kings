@@ -15,7 +15,6 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -57,8 +56,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["academics"]
+user_groups: ["Academics"]
 ---
-
-Rita Borgo is a...
 

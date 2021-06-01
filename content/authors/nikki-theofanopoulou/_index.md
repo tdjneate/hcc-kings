@@ -51,7 +51,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["phd-students"]
+user_groups: ["PhD Students"]
 ---
 
 Nikki Theofanopoulou is a PhD student in the Department of Informatics. Her research focuses on understanding how novel technology-enabled systems could be embedded in the everyday lives of children and young people, as well as in clinical settings to promote mental health. Nikki has published papers furthering this research agenda in human-computer interaction, psychology and mental health venues, and her accolades also include receiving a Best Paper Award at the Computer-Supported Cooperative Work and Social Computing conference (2018). She also holds an MSc in Developmental Psychology from UCL and a BSc in Psychology from the University of Athens (Greece).

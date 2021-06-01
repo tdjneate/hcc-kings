@@ -55,7 +55,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["academics"]
+user_groups: ["Academics"]
 ---
 
 My research is positioned at the intersection of Human Centred Interaction, mental health intervention, and learning sciences. I am interested in understanding how technology can meaningfully help in supporting the development of core competencies known to promote mental health---such as self-regulation, coping with stress, or conflict resolution---in real-world contexts. This research agenda is supported through collaboration with multiple partners including Oxford University, UCL, Anna Freud Centre in London, UC Irvine, UC Santa Cruz, Harvard Medical School, and Committee for Children (a US-based non-profit developers of a social-emotional learning program used in more than 30% of US schools). We've published a series of papers at top tier HCI venues furthering this research direction over the last 4 years (with 3x CHI, 2x CSCW, 1x TOCHI as first authored), including a Best Paper awards at CHI'17 and CSCW'18. 

@@ -50,7 +50,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["phd-students"]
+user_groups: ["PhD Students"]
 ---
 
 Svitlana Surodina is the Entrepreneur in Residence with Ageing Research at King's (ARK) where she supports commercialisation programmes and conducts research on technological ecosystems for investments in longevity innovation. Svitlana is also the CEO of Skein Group which includes the AI technology innovation and business acceleration of Health-Tech. She holds an MBA from the University of Oxford and is currently a PhD student in the Department of Informatics.

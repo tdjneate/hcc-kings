@@ -21,8 +21,7 @@ bio: Yiwen Xing is a PhD student in the Department of Informatics. Her research 
 interests:
 - Information Visualization
 - Data Storytelling
-- Individual Differences and Visual Perception
-- Artistic & Journalistic Data Visualization
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +49,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["phd-students"]
+user_groups: ["PhD Students"]
 ---
 
 Yiwen Xing is a PhD student in the Department of Informatics. Her research project is titled 'Understanding Social and Infrastructure Changes through the Lenses of Liberal Arts', which is aligned with the Human Centred Computing (HCC) Group.

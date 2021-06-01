@@ -50,7 +50,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["phd-students"]
+user_groups: ["PhD Students"]
 ---
 
 Yazhuo Zhou is a PhD student in the Department of Informatics. Her research focuses on visualization for AI-driven dialogue systems. She holds an MSc in Data Science from King's College London, where her dissertation focused on a logo detector for detecting product placement in social media image posts. She holds a BSc in Bioinformatics from Central South University (China).

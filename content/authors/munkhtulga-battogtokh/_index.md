@@ -23,7 +23,6 @@ interests:
 - Natural Language Processing
 - Information visualisation
 - Safe and Trusted AI
-- Image processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,7 +48,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["phd-students"]
+user_groups: ["PhD Students"]
 ---
 
 Munkhtulga Battogtokh is a PhD student in the Department of Informatics. His research focuses on Safe and Trusted AI, with a specific focus on AI-driven dialogue systems and visualisation. Munkhtulga obtained his BSc from King's College London with first class honours, the Alan Fairbourn Memorial Prize for the Most Meritorious Final Year Project and the Sambrooke Exhibition Prize for being the highest-scoring student in Informatics 2016/2017.

@@ -22,10 +22,6 @@ bio: Helen Yannakoudakis is working on machine learning for natural language pro
 interests:
 - Development of open-domain models of language
 - Learning with limited data
-- Transfer and multi-task learning
-- Long-form generation models
-- Dialogue systems
-- Explainable machine learning 
 
 
 # Education to show in About widget
@@ -62,7 +58,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["academics"]
+user_groups: ["Academics"]
 ---
 Helen Yannakoudakis is working on machine learning for natural language processing, with emphasis on real-world applications and non-canonical language, such as automated writing/speech assessment and abusive language detection in social media. Her research interests include the development of open-domain models of language, learning with limited data, transfer and multi-task learning, long-form generation models, dialogue systems, and explainable machine learning. Helen holds a PhD in Natural Language and Information Processing from the University of Cambridge. 
 

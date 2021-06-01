@@ -21,8 +21,6 @@ bio: Bdour Alwuqaysi is a PhD student in the Department of Informatics. Her rese
 interests:
 - Information Visualization
 - Visualization in Digital Humanities
-- User Studies and Evaluation
-- Social Media Analysis
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,6 +48,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["phd-students"]
+user_groups: ["PhD Students"]
 ---
 

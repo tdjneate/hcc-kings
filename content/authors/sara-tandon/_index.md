@@ -21,8 +21,7 @@ bio: Sara Tandon is a PhD student in the Department of Informatics. Her research
 interests:
 - Information Visualization
 - Data Storytelling
-- Individual Differences and Visual Perception
-- Artistic & Journalistic Data Visualization
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +49,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
-user_groups: ["phd-students"]
+user_groups: ["PhD Students"]
 ---
 
 Sara Tandon is a PhD student in the Department of Informatics. Her research focuses on spatial ability and its effect on perception of data visualization. She holds an MSc in Data Science from King's College London. Her dissertation focused on creating visual databases and storytelling for US demographic and political opinion time series data. Sara also holds a BSc in Mathematics from Pepperdine University (USA).
